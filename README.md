@@ -99,25 +99,12 @@ These findings emphasize the need for both operational and network-based feature
 
 ---
 
-## 🛠️ Scripts
-
-All scripts are stored in the `scripts/` folder:
-
-- `process_data.py` – Data preprocessing and cleaning
-- `cluster_model.py` – Unused in final, but tested during exploratory phase
-- `regression_model.py` – Regression models (initial experiments)
-- `create_dash.py` – Builds the interactive web dashboard
-- `run.sh` – Pipeline execution script
-
----
-
 ## 🧪 Installation
 
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/flight-delay-predictor.git
-cd flight-delay-predictor
+git clone https://github.com/datakunoichi/CSE6242.git
 pip install -r requirements.txt
 ```
 
@@ -130,13 +117,6 @@ pip install -r requirements.txt
    ```bash
    streamlit run app.py
    ```
-
----
-
-## 🌍 Live Demo
-
-> 🔗 *Live Streamlit App:* *(link placeholder)*  
-> 🔗 *Chrome Extension Demo:* *(link placeholder)*
 
 ---
 
