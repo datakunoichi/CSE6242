@@ -115,7 +115,7 @@ pip install -r requirements.txt
 1. Run the Chrome extension to get live predictions while browsing flight sites.
 2. Launch the Streamlit web app for a standalone experience:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app_final.py
    ```
 
 ---
