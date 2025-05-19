@@ -105,6 +105,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/datakunoichi/CSE6242.git
+cd flight-delay-predictor
 pip install -r requirements.txt
 ```
 
